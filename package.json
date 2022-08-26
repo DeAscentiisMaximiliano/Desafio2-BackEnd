@@ -1,0 +1,15 @@
+{
+	"name": "desafio-clase-02",
+	"version": "1.0.0",
+	"type": "module",
+	"description": "Coderhouse-BackEnd-tp2",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon"
+	},
+	"author": "DeAscentiis",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.15"
+	}
+}
